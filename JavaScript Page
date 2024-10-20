@@ -1,0 +1,5 @@
+document.getElementById('get-started').addEventListener('click', function() {
+    alert('Get Started button clicked!');
+});
+
+document.getElementById('sign');
